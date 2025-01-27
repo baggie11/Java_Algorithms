@@ -1,3 +1,5 @@
+//this was done for the course schedule IV in leetcode
+
 class Solution {
     public List<Boolean> checkIfPrerequisite(int numCourses, int[][] prerequisites, int[][] queries) {
         // Create an adjacency list and an array to track in-degrees
